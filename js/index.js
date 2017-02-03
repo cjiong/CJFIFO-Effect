@@ -1,3 +1,4 @@
+'use strict';
 var words = document.getElementsByTagName('span');
 var cite = document.getElementsByTagName('cite');
 
